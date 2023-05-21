@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Visual Studio 2008\Projects\FreeRecover\FreeRecover\bin\Debug\FreeRecover.exe
+C:\Users\David\Documents\Visual Studio 2008\Projects\FreeRecover\FreeRecover\bin\Debug\FreeRecover.pdb
+C:\Users\David\Documents\Visual Studio 2008\Projects\FreeRecover\FreeRecover\bin\Debug\FreeRecover.xml
+C:\Users\David\Documents\Visual Studio 2008\Projects\FreeRecover\FreeRecover\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2008\Projects\FreeRecover\FreeRecover\obj\Debug\FreeRecover.Form1.resources
+C:\Users\David\Documents\Visual Studio 2008\Projects\FreeRecover\FreeRecover\obj\Debug\FreeRecover.Resources.resources
+C:\Users\David\Documents\Visual Studio 2008\Projects\FreeRecover\FreeRecover\obj\Debug\FreeRecover.vbproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2008\Projects\FreeRecover\FreeRecover\obj\Debug\FreeRecover.exe
+C:\Users\David\Documents\Visual Studio 2008\Projects\FreeRecover\FreeRecover\obj\Debug\FreeRecover.xml
+C:\Users\David\Documents\Visual Studio 2008\Projects\FreeRecover\FreeRecover\obj\Debug\FreeRecover.pdb
